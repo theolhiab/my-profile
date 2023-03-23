@@ -1,0 +1,51 @@
+body {
+	background-color: #FEF2DF;
+	color: #72513F;
+	font-family: Sifonn, sans-serif;
+	font-weight: 600;
+}
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+.card-white {
+background-color: white;
+padding: 40px;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+margin: 20px 0px;
+text-align: center;
+}
+
+.img-circle {
+border-radius: 50%;
+}
+
+.btn-white {
+color: #72513F;
+padding: 15px 20px;
+border-radius: 20px;
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+
+.list-inline li {
+display: inline;
+padding: 10px;
+}
+.list-inline i {
+font-size: 50px;
+color: #72513F;
+
+
+
+
+
+
+
+
